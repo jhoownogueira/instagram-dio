@@ -52,14 +52,6 @@ body {
     margin-bottom: 2.5rem;
 }
 
-.container .right-container .login-area .inputs {
-    width: 100%;
-    max-width: 28rem;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 2rem;
-}
-
 .container .right-container .login-area .form input {
     width: 100%;
     height: 4.2rem;
